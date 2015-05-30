@@ -22,4 +22,4 @@ I know. But it works. Under the constraints of not having access to a database a
 
 Please create an issue
 
-License : [MIT](LICENSE)
+License : [MIT](LICENSE.txt)
